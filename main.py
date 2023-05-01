@@ -12,5 +12,5 @@ Min = int(input())
 Max = int(input())
 for i in range(n):
     if a[i]<=Max and a[i] >= Min :
-        print(a[
+        print(a[i])
 
